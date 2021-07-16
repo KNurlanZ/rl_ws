@@ -1,0 +1,8 @@
+prefix=/home/nektiria/rl_ws/devel
+
+Name: gazebo_pusher
+Description: Description of gazebo_pusher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
